@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![swing-park github stats](https://github-readme-stats.vercel.app/api?username=swing-park&show_icons=true)
+
 <!--
 **swing-park/swing-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
