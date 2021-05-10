@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트앤드 개발에 푹 빠져있는 스윙의 깃허브 입니다 👋
 
 ![swing-park github stats](https://github-readme-stats.vercel.app/api?username=swing-park&show_icons=true)
 
