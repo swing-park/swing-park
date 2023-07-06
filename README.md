@@ -1,4 +1,5 @@
-### 프론트앤드 개발에 푹 빠져있는 스윙의 깃허브 입니다 👋
+## Hello👋 I'm the FE developer, Swing.
+### I'm Lovin'in JavaScript, React.js, TypeScript 
 
 ![swing-park github stats](https://github-readme-stats.vercel.app/api?username=swing-park&show_icons=true)
 
