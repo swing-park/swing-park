@@ -1,7 +1,7 @@
 ## Hello👋 I'm the FE developer, Swing.
 ### I'm Lovin'in JavaScript, React.js, TypeScript 
 
-![swing-park github stats](https://github-readme-stats.vercel.app/api?username=swing-park&show_icons=true)
+![swing-park Github stats](https://github-readme-stats.vercel.app/api?username=swing-park&show_icons=true&theme=radical)
 
 <!--
 **swing-park/swing-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
